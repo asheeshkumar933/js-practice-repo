@@ -1,1 +1,1 @@
-# js-series
+# js- practice-series
